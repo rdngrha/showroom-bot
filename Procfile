@@ -1,0 +1,1 @@
+worker: java -jar target/showroom-latest.jar
